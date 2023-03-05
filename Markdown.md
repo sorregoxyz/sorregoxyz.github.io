@@ -1,6 +1,7 @@
 ![header](https://sorrego.xyz/wp-content/uploads/2023/02/github-blog.jpg)
 
 # Markdown
+*26-02-2023*
 
 I decided to start with what is, perhaps, the ground of this side of my work, Markdown. This markup language serves as the primary structure for my explorations in digital methods. One does not need anything other than a text editor to explore all the advantages of Markdown, a  lightweight markup language (LML) that helps me structure this GitHub-based blog and my Obsidian+Zotero noting-taking. The main advantage of this LML is its simplicity. Its syntax can be learned fast, and its application does not require previous programming knowledge. Nevertheless, the usability and possibilities of Markdown are multiple since one can read the documents created using its grammar through many platforms and software. Below, there is a summary of its main elements:
 
