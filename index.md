@@ -8,4 +8,4 @@ This is an appendix for my main **[blog](https://sorrego.xyz)** on urban ethnogr
 
 1. **[Markdown](Markdown.md)** 26-02-2023
 
-![ecosystem](https://sorrego.xyz/wp-content/uploads/2023/03/banner-small.jpg)
+![ecosystem](https://sorrego.xyz/wp-content/uploads/2023/03/banner-small-.jpg)
