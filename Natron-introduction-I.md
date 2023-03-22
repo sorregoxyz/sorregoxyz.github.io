@@ -37,5 +37,5 @@ It comprises ten categories that group a vast number of node possibilities.
 + **Transform.** Different options to modify the size, shape, and position of videos and images,
 + **Views.** It offers various spaces from where to see our compositions.
 + **GMIC.** This compiles all the elements from the G’mic framework. A collection of interfaces and datasets. 
-+ + **Other** and **Extra.** Those two are a couple of subsets gathering a bunch of uncategorized nodes. 
++ **Other** and **Extra.** Those two are a couple of subsets gathering a bunch of uncategorized nodes. 
 
