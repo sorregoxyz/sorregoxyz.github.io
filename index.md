@@ -1,6 +1,6 @@
 *An inventory of multimodal experiments*
 
-![header](hhttps://sorrego.net/wp-content/uploads/logo-xyz.png)
+![header](https://sorrego.net/wp-content/uploads/2025/08/logo.jpg)
 
 This is an appendix for my main **[blog](https://sorrego.net)** on experimental ethnography. I am publishing here a set of experiments mixing multimodal anthropology, coding, and desing. Also, I will start documenting it. 
 
