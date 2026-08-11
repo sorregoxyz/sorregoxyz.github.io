@@ -2,7 +2,7 @@
 
 ![header](https://sorrego.net/wp-content/uploads/header-xyz-scaled.jpg)
 
-This is an appendix for my main **[blog](https://sorrego.net)** on experimental ethnography. I am publishing here a set of experiments mixing multimodal anthropology, coding, and desing. Also, I will start documenting it. 
+This is a growing and phagocytic appendix for my main **[blog](https://sorrego.net)** on experimental ethnography—eventually, this site will swallow the main one. I publish here a more experimental set of ethnographic artifacts mixing multimodal anthropology, coding, and design. I also compulsively document everything here > fieldbook 
 
 ## Content
 
