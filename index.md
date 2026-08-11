@@ -1,4 +1,4 @@
-*An inventory of multimodal experiments*
+*an inventory of multimodal experiments*
 
 ![header](https://sorrego.net/wp-content/uploads/header-xyz-scaled.jpg)
 
