@@ -8,10 +8,12 @@ This is a growing and phagocytic appendix for my main **[blog](https://sorrego.n
 
 **Index**
 
+1. **[A-New.Start] (data/01-A-new-start.md)** 18-08-2026
+
 *--Old content--*
 
-1. **[Markdown](data/Markdown.md)** 26-02-2023
-2. **[Natron-Introduction-I](data/Natron-introduction-I.md)** 12-03-2023
+- **[Markdown](data/Markdown.md)** 26-02-2023
+- **[Natron-Introduction-I](data/Natron-introduction-I.md)** 12-03-2023
 
 *--Old content--*
 
