@@ -8,7 +8,7 @@ This is a growing and phagocytic appendix for my main **[blog](https://sorrego.n
 
 **Index**
 
-1. **[A-New.Start] (data/01-A-new-start.md)** 18-08-2026
+1. **[A-New-Start](data/01-A-new-start.md)** 18-08-2026
 
 *--Old content--*
 
